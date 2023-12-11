@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viethunggg&label=Profile%20views&color=0e75b6&style=flat" alt="viethunggg" /> </p>
 
-- 🌱 I’m currently working as  **Cyber Defense Incident Responder**
+- 🌱 I’m currently working as  **Malware Analyst**
 
 - 📫 How to reach me **vhungpmpx@gmail.com**
 
