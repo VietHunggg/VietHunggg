@@ -13,4 +13,3 @@
 <a href="https://www.hackerrank.com/vhungpmpx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vhungpmpx" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viethunggg&show_icons=true&locale=en" alt="viethunggg" /></p>
